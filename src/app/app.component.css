@@ -32,6 +32,6 @@ p {
 /*media query for mobile*/
 @media screen and (max-width: 575px) {
   .content {
-    background-color: orange;
+    background-color: lightgrey;
   }
 }
