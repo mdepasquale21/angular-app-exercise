@@ -4,6 +4,10 @@
   flex-wrap: wrap;
   justify-content: center;
   margin-top: 16px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  left: 0;
 }
 
 .circle-link {
